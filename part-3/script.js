@@ -190,7 +190,7 @@ sizeSlider.addEventListener('input', function() {
 });
 
 
-// Task 3.3: Color Picker
+// Task 3.3: Color Picker for changing the color
 const colorPreview = document.querySelector('#color-preview');
 const colorPicker = document.querySelector('#color-picker');
 const colorValue = document.querySelector('#color-value');
