@@ -199,7 +199,7 @@ function renderTasks() {
     updateStats();
 }
 
-// Function to add new task
+// Function to add new task in the list of tasks
 function addTask() {
     const text = taskInput.value.trim();
     if (text === '') return;
