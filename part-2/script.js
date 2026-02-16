@@ -162,7 +162,7 @@ userForm.addEventListener('submit', function(event) {
     `;
 
     // Optional: Clear the form
-    // userForm.reset();
+     userForm.reset();
 });
 
 
